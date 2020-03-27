@@ -45,8 +45,7 @@
     Because of the pyecharts input request is a list, use the transfer_form function in ani_analysis.py to convert the format of the         data. Other chart functions in ani_analysis.py implement visualization of pyecharts.The following are the results of visual.
     
     -show the proportion of each type in pie chart
-    ![image](https://github.com/yingyihsieh/crawl-data-of-anime-and-data-   
-    analysis/blob/master/%E5%90%84%E9%A1%9E%E5%88%A5%E5%8D%A0%E6%AF%94.png)
+  ![image](https://github.com/yingyihsieh/crawl-data-of-anime-and-data-analysis/blob/master/%E5%90%84%E9%A1%9E%E5%88%A5%E5%8D%A0%E6%AF%94.png)
     
     -show counts of each type in bar chart overlap avg views in line chart
 ![image](https://github.com/yingyihsieh/crawl-data-of-anime-and-data-               
