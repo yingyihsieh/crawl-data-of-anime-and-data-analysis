@@ -12,7 +12,7 @@
     -mysql_module.py
     -animal.py
     
-    In database phase, mysql_module.py provides basic sql operations, and the sql applications are implemented in animal.py for crawler     work. To be more specific, We have three steps below,
+    In database phase, mysql_module.py provides basic sql operations, and the sql applications are implemented in animal.py for crawler work. To be more specific, We have three steps below,
     
     -Save raw data to database,
     
@@ -49,7 +49,7 @@
     analysis/blob/master/%E5%90%84%E9%A1%9E%E5%88%A5%E5%8D%A0%E6%AF%94.png)
     
     -show counts of each type in bar chart overlap avg views in line chart
-    ![image](https://github.com/yingyihsieh/crawl-data-of-anime-and-data-               
+![image](https://github.com/yingyihsieh/crawl-data-of-anime-and-data-               
                 analysis/blob/master/%E5%90%84%E9%A1%9E%E5%88%A5%E4%BD%9C%E5%93%81%E6%95%B8%E8%88%87%E5%B9%B3%E5%9D%87%E8%A7%80%E7%9C%8B%E9%87%8F.png)
     
     -show counts of each company in bar chart overlap avg views in line chart
